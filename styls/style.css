@@ -193,6 +193,38 @@ margin-bottom: 50px;
     width:450px;
 }
 /* instragram style end */
+/* gelary flower style start */
+.flower-main-container{
+    background-color: #272727;
+    }
+    .flower-container{
+        width:80%;
+        margin:auto;
+    }
+    .flower-gelary{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap:20px;
+        padding:50px 0px;
+    }
+    .flower-title{
+        text-align: center;
+        font-size: 40px;
+        color:rgba(255, 255, 255, 0.90);
+        padding-top:30px;
+    }
+    .flower-title span{
+        color:#E55473;
+    }
+    .flower-gelary-box{
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.90);
+    }
+    .flower-gelary-box:hover{
+        box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.90);
+    }
+    /* gelary flower style end */
 /* footer style start */
 .main-footer{
 background-color: #111010;
@@ -215,3 +247,5 @@ font-size: 20px;
     font-size: 16px;
     color:rgba(255, 255, 255, 0.40);
 }
+/* footer style end */
+  /* TThe End Thank For Check */
