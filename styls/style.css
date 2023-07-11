@@ -45,15 +45,17 @@ img{
     margin: 0 auto;
 }
 .featur-title{
-    width:50%;
-    padding:50px 0px 25px 100px;
+    width: 50%;
+    padding: 50px 0px 25px 0px;
     font-size: 40px;
-    margin:0 auto;
-    color:#272727;
+    margin: 0 auto;
+    text-align: center;
+    color: #272727;
 }
 .featur-description{
     color:rgba(39, 39, 39, 0.60);
     font-size: 20px;
+    text-align: center;
     margin: auto;
     width:50%;
     padding:0px 0px 20px 10px;
@@ -129,3 +131,36 @@ background-color: rgba(229, 84, 115, 0.05);
     padding-bottom: 20px;
 }
 /* hot deal style end */
+
+/* instragram style start */
+.instragra-title{
+    width: 50%;
+    padding: 50px 0px 25px 0px;
+    font-size: 40px;
+    margin: 0 auto;
+    text-align: center;
+    color: #272727;
+}
+.instragram-description{
+    color:rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    width:50%;
+    padding:0px 0px 30px 0px;
+}
+.instragram-main-box{
+    width:80%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+/* instragram style end */
